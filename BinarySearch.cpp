@@ -12,6 +12,7 @@ void input(){
         cin >> nPanjang;
 
         if (nPanjang <= 10){
+            break;
         }
     } 
 }
